@@ -6,7 +6,7 @@ I am studying Computer Science Engineering in Budapest University of Technology 
 
 ## 🛠️ My skills and tools:
 - **Languages**: C/C++ || Blueprints
-- **Developer Tools**: Git,VS Code, VS, JetBrains Rider, Unreal Engine4/5
+- **Developer Tools**: Git,VS Code, VS, JetBrains Rider, Unreal Engine 4/5
 
 ## 📫 My contacts:
 - **Email**: arzmisha@gmail.com
