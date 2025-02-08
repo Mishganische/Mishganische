@@ -2,7 +2,7 @@
 
 I am Mikhail Arzumanov, I am 19 years old. 
 
-I am studying Computer Science!
+I am studying Computer Science Engineering!
 
 ## 🛠️ My skills and tools:
 - **Languages**: C/C++ || Blueprints
