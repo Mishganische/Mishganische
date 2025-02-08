@@ -1,8 +1,8 @@
 # Hello👋
 
-I am Mikhail Arzumanov, I am 19 years old and currently I am living in Budapest, Hungary. 
+I am Mikhail Arzumanov, I am 19 years old. 
 
-I am studying Computer Science Engineering in Budapest University of Technology and Economics!
+I am studying Computer Science!
 
 ## 🛠️ My skills and tools:
 - **Languages**: C/C++ || Blueprints
