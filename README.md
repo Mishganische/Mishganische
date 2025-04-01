@@ -6,7 +6,7 @@ I am studying Computer Science Engineering in BME University!
 
 ## 🛠️ My skills and tools:
 - C/C++ || Blueprints
-- **Developer Tools**: Git,VS Code, VS, JetBrains Rider, Unreal Engine 4/5
+- **Developer Tools**: Git,VS Code, VS, JetBrains Rider/CLion, Unreal Engine 4/5
 
 ## 📫 My contacts:
 - **Email**: arzmisha@gmail.com
