@@ -5,7 +5,7 @@ I am Mikhail Arzumanov, I am 19 years old.
 I am studying Computer Science Engineering in BME University!
 
 ## 🛠️ My skills and tools:
-- C/C++ || Blueprints
+- C/C++ || Blueprints, Java
 - **Developer Tools**: Git,VS Code, VS, JetBrains Rider/CLion, Unreal Engine 4/5
 
 ## 📫 My contacts:
